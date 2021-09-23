@@ -17,4 +17,6 @@ Version 1.1 Login y menu
 
 Version 1.2 Django y BDA
 
+Version 1.3 html y css(cliente, administrador)
+
 
