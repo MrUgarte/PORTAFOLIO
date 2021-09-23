@@ -15,4 +15,6 @@ pip install django
 
 Version 1.1 Login y menu
 
+Version 1.2 Django y BDA
+
 
